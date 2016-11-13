@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WiFi密码助手</string>
+    <string name="action_about">关于</string>
+
+    <string name="wifi_name">热点：{0}</string>
+    <string name="wifi_pwd">密码：{0}</string>
+    <string name="wifi_no_pwd">Is Empty.</string>
+
+    <string name="no_root_msg">你还没有获取root权限！</string>
+    <string name="welcome_msg">欢迎使用，长按WIFI密码可以复制！</string>
+    <string name="analysis_error_msg">WIFI配置信息解析失败。</string>
+</resources>
